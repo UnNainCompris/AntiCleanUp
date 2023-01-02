@@ -1,0 +1,5 @@
+name: AntiCleanup
+version: '${project.version}'
+main: fr.unnaincompris.anticleanup.Main
+authors: [ UnNainCompris ]
+description: An anticleanup plugin
